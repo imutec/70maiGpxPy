@@ -2,8 +2,7 @@ import sys
 from pytz import timezone
 import datetime
 
-def main():
-  argv = sys.argv
+def convert(argv):
   if (len(argv) <= 0):
     return ()
 
@@ -77,4 +76,4 @@ def main():
   gpx.close()
 
 if __name__ == "__main__":
-  main()
+  convert(sys.argv)
