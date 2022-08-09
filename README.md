@@ -3,8 +3,8 @@
 
 # Usage
 
-&gt;python 70maiGpx.py [INPUT FILE...]
+python 70maiGpx.py [INPUT FILE...]
 
 or 
 
-&gt;python 70maiGpx.py [INPUT FILE...] [OUTPUT FILE...]
+python 70maiGpx.py [INPUT FILE...] [OUTPUT FILE...]
