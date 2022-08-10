@@ -3,20 +3,18 @@
 
 # Usage
 
-python 70maiGpx.py [INPUT FILE...]
-
-
+`python 70maiGpx.py [INPUT FILE...]`
 
 or 
 
-python 70maiGpx.py [INPUT FILE...] [OUTPUT FILE...]
+`python 70maiGpx.py [INPUT FILE...] [OUTPUT FILE...]`
 
 # Example
 
-python 70maiGpx.py GPSData000001.txt
+`python 70maiGpx.py GPSData000001.txt`
 
-GPSData000001.gpx が生成されます。
+`GPSData000001.gpx` が生成されます。
 
-python 70maiGpx.py GPSData000001.txt track.gpx
+`python 70maiGpx.py GPSData000001.txt track.gpx`
 
-track.gpx が生成されます。
+`track.gpx` が生成されます。
