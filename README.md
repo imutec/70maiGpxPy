@@ -5,6 +5,16 @@
 
 python 70maiGpx.py [INPUT FILE...]
 
+Example
+
+python 70maiGpx.py GPSData000001.txt
+
+GPSData000001.gpx が生成されます。
+
 or 
 
 python 70maiGpx.py [INPUT FILE...] [OUTPUT FILE...]
+
+python 70maiGpx.py GPSData000001.txt track.gpx
+
+track.gpx が生成されます。
